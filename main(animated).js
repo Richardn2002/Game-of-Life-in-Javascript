@@ -1,3 +1,7 @@
+/*
+Designed and coded by richardn(richard20020815).The whole program is under MIT license.It means you can use it freely without
+deleting my name.
+*/
 var canvasInHTML = document.getElementById("canvas1");
 if(canvasInHTML.getContext){
     var myCanvas =canvasInHTML.getContext("2d");
