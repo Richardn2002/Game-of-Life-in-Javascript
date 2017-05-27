@@ -12,7 +12,7 @@ So now we get 4 simple rules for the cells to cling to.We set a starting pattern
 The game gives us an insight:If 4 simple rules can let life appear from the chaos and ashes,maybe some simple rules of physics can create microbes and eventually,humans in the way the game does.
 
 --------------------
-For saving the results,I embed hongru's canvas2image code(https://github.com/hongru/canvas2image).This means:
+For saving the results,I embed hongru's canvas2image code(https://github.com/hongru/canvas2image) .This means:
 1.You must be connected to the Internet to experience the full functions of my code.
 2.I must mention his/her name.
 
