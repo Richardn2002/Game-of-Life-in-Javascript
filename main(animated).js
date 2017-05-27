@@ -387,6 +387,5 @@ function once(){
             data[w]=false;
         }
     }
-    console.log(data);
 }
 setInterval("once()",interval);
