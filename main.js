@@ -1,3 +1,7 @@
+/*
+Designed and coded by richardn(richard20020815).The whole program is under MIT license.It means you can use it freely without
+deleting my name.
+*/
 var canvasInHTML = document.getElementById("canvas1");
 if(canvasInHTML.getContext){
     var myCanvas =canvasInHTML.getContext("2d");
@@ -7,7 +11,7 @@ function drawPoint(drawPosX,drawPosY,color,round){
     myCanvas.fillRect(1+(drawPosX-1)*pixelWidth,1+round*(height*pixelWidth+50)+(drawPosY-1)*pixelWidth,pixelWidth,pixelWidth);
 }
 var requestNumber =function(question){
-	var number=prompt(question)*1;//javascript will recognize the output of prompt as a string
+        var number=prompt(question)*1;//javascript will recognize the output of prompt as a string
 	if(isNaN(number)){
         while(isNaN(number)){
         	alert("Input invaild!");//avoid jokers
@@ -159,7 +163,7 @@ var liveOrNot = function (posX,posY) {
         }
     }
     if(posX==1&&posY==height){//leftDown
-        up = data[pos(posX,posY-1)];
+                    up = data[pos(posX,posY-1)];
                     rightUp = data[pos(posX+1,posY-1)];//get the data of surrounding 3 blocks
                     right = data[pos(posX+1,posY)];
                     if(up){
