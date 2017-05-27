@@ -10,3 +10,11 @@ The game consists of a 2d grid.For each block in the grid,it has 2 status,i.e.,a
 So now we get 4 simple rules for the cells to cling to.We set a starting pattern and let go.Amazingly,the cells started to act like real organisms.The ones who are too simple will be consumed quickly.The ones who are stable will stay in one place forever.Eventually,a big,complex swarm of cells will appear and start to expand quickly,killing others.It's just like evolution.Only the fittest survives.   
 
 The game gives us an insight:If 4 simple rules can let life appear from the chaos and ashes,maybe some simple rules of physics can create microbes and eventually,humans in the way the game does.
+
+--------------------
+For saving the results,I embed hongru's canvas2image code(https://github.com/hongru/canvas2image).This means:
+1.You must be connected to the Internet to experience the full functions of my code.
+2.I must mention his/her name.
+
+
+license:MIT
