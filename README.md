@@ -18,3 +18,8 @@ For saving the results,I embed hongru's canvas2image code(https://github.com/hon
 
 
 license:MIT
+
+
+
+----------------
+DO NOT USE THOSE CODES IN THE RELEASE SECTION.THEY ARE CODES AT THE VERY BEGINNING(I.E. VERY WRONG)AND GITHUB DOESN'T ALLOW ME TO DELETE THEM.
